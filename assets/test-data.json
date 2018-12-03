@@ -1,0 +1,701 @@
+{
+    "data": [
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "A",
+            "id": 0,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "E",
+            "id": 1,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "I",
+            "id": 2,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "G",
+            "id": 3,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "C",
+            "id": 4,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "H",
+            "id": 5,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "D",
+            "id": 6,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "E",
+            "id": 7,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "A",
+            "id": 8,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "D",
+            "id": 9,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "H",
+            "id": 10,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "B",
+            "id": 11,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "B",
+            "id": 12,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "B",
+            "id": 13,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "C",
+            "id": 14,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "C",
+            "id": 15,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "E",
+            "id": 16,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "D",
+            "id": 17,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "B",
+            "id": 18,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "F",
+            "id": 19,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "E",
+            "id": 20,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "A",
+            "id": 21,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "B",
+            "id": 22,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "D",
+            "id": 23,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "A",
+            "id": 24,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "B",
+            "id": 25,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "C",
+            "id": 26,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "F",
+            "id": 27,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "C",
+            "id": 28,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "G",
+            "id": 29,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "C",
+            "id": 30,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "D",
+            "id": 31,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "B",
+            "id": 32,
+            "shuffle": true
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "G",
+            "id": 33,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "C",
+            "id": 34,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "C",
+            "id": 35,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "D",
+            "id": 36,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "goal": "F",
+            "id": 37,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I"
+            ],
+            "goal": "E",
+            "id": 38,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "D",
+            "id": 39,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "D",
+            "id": 40,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "A",
+            "id": 41,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "A",
+            "id": 42,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "F",
+            "id": 43,
+            "shuffle": false
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "goal": "E",
+            "id": 44,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "goal": "A",
+            "id": 45,
+            "shuffle": true
+        },
+        {
+            "type": "RADIAL",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "goal": "E",
+            "id": 46,
+            "shuffle": false
+        },
+        {
+            "type": "LINEAR",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "goal": "C",
+            "id": 47,
+            "shuffle": false
+        }
+    ],
+    "tests": 48
+}
